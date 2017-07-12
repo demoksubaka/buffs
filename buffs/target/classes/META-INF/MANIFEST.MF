@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: query
+Implementation-Version: 0.1.0
+Built-By: john
+Implementation-Vendor-Id: query
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/query/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
